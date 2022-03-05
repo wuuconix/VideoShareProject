@@ -14,4 +14,5 @@
 
 + https://v.conix.tk/?url=http://storage.live.com/items/DBB9EA447F55959D!579:/[BeanSub][Shingeki_no_Kyojin][83][GB][1080P][x264_AAC].mp4?authkey=AO_cg8p0enDd7DI
 
-  > 写完这个页面才发现OneDrive支持在线视频预览。。白忙活了
+  > ~写完这个页面才发现OneDrive支持在线视频预览。。白忙活了~
+  > OneDrive的文件又变成一个直接下载的链接了。看来不太稳定，所以这个项目还是很有意义的233
